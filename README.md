@@ -1,4 +1,4 @@
-# Markdown Text 101
+# Discord Markdown style
 
 Want to inject some flavor into your everyday text chat? You're in luck! Discord uses Markdown, a simple plain text formatting system that'll help you **make your sentences stand out**. Here's how to do it! Just add a few characters before & after your desired text to change your text! I'll show you some examples...
 
@@ -52,79 +52,79 @@ If you really want to spruce up your code blocks, you can denote a specific lang
 
 There are many different languages in place of Markdown that Discord's syntax highlighting support. Each different language has its own approach to highlight-able syntax. For a full list: https://highlightjs.org/static/demo/. Note that you won't be able to view syntax highlighting on the mobile app.
 
-asciidoc
+### asciidoc
 
 ![asciidoc](https://i.imgur.com/V7FnZoP.png)
 
-autohotkey
+### autohotkey
 
 ![autohotkey](https://i.imgur.com/wAbR9g1.png)
 
-bash
+### bash
 
 ![bash](https://i.imgur.com/HA0XvZc.png)
 
-coffeescript
+### coffeescript
 
 ![coffeescript](https://i.imgur.com/pBbynIE.png)
 
-cpp (C++)
+### cpp (C++)
 
 ![cpp](https://i.imgur.com/Ug5QRpi.png)
 
-cs (C#)
+### cs (C#)
 
 ![cs](https://i.imgur.com/9wwxpHo.png)
 
-css
+### css
 
 ![css](https://i.imgur.com/5dI0lIN.png)
 
-diff
+### diff
 
 ![diff](https://i.imgur.com/CqWe4W7.png)
 
-fix
+### fix
 
 ![fix](https://i.imgur.com/oiNMvI8.png)
 
-glsl
+### glsl
 
 ![glsl](https://i.imgur.com/NdiZ1q7.png)
 
-ini
+### ini
 
 ![ini](https://i.imgur.com/5eNvFJe.png)
 
-json
+### json
 
 ![json](https://i.imgur.com/ieGxUhx.png)
 
-md (markdown)
+### md (markdown)
 
 ![md](https://i.imgur.com/4v7NHXG.png)
 
-ml
+### ml
 
 ![ml](https://i.imgur.com/9PBvwKr.png)
 
-prolog
+### prolog
 
 ![prolog](https://i.imgur.com/VvfgXzk.png)
 
-py
+### py
 
 ![py](https://i.imgur.com/sjxY2lB.png)
 
-tex
+### tex
 
 ![tex](https://i.imgur.com/aSYRfPN.png)
 
-xl
+### xl
 
 ![xl](https://i.imgur.com/nlu49Jt.png)
 
-xml
+### xml
 
 ![xml](https://i.imgur.com/4cCrGr4.png)
 
